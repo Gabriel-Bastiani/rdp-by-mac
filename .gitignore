@@ -1,0 +1,19 @@
+# Evita subir arquivos sensiveis ou temporarios
+
+# Variacoes do script com credenciais hardcoded
+*credencial*
+*senha*
+*password*
+*secret*
+
+# Arquivos de backup gerados por editores
+*.bak
+*.orig
+*~
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
